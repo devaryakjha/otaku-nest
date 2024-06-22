@@ -1,0 +1,3 @@
+[submodule "consumet.ts"]
+	path = consumet.ts
+	url = git@github.com:devaryakjha/consumet.ts.git

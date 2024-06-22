@@ -5,7 +5,6 @@
     "build": "bun-vercel ./src/server.ts"
   },
   "dependencies": {
-    "@consumet/extensions": "^1.6.0",
     "hono": "^4.4.7"
   },
   "devDependencies": {

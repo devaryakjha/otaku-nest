@@ -7,6 +7,7 @@
       "@/*": ["./src/*"],
       "@/anime": ["./src/routes/anime"],
       "@/utils": ["./src/utils"],
+      "@consumet/extensions": ["./consumet.ts"],
     }
   },
 }
