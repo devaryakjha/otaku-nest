@@ -1,10 +1,11 @@
 {
   "name": "otaku-nest",
   "scripts": {
-    "dev": "bun run --hot src/index.ts",
-    "build": "bun-vercel ./src/index.ts"
+    "dev": "bun run --hot src/server.ts",
+    "build": "bun-vercel ./src/server.ts"
   },
   "dependencies": {
+    "@consumet/extensions": "^1.6.0",
     "hono": "^4.4.7"
   },
   "devDependencies": {
